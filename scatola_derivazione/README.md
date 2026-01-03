@@ -1,20 +1,32 @@
-# Anteprime per scatola_derivazione
+# Previews for scatola_derivazione
 
-Questo file è stato generato automaticamente.
+This file was automatically generated.
 
 ## scatolaDerivazioen2.scad
 
-![Anteprima di scatolaDerivazioen2.scad](scatolaDerivazioen2.png)
+[![Preview of scatolaDerivazioen2.scad](scatolaDerivazioen2.png)](https://seasick.github.io/openscad-web-gui/?https://raw.githubusercontent.com/Kindaglia/openscad-ai/main/scatola_derivazione/scatolaDerivazioen2.scad)
 
+[🔗 Open Interactive 3D Preview](https://seasick.github.io/openscad-web-gui/?https://raw.githubusercontent.com/Kindaglia/openscad-ai/main/scatola_derivazione/scatolaDerivazioen2.scad)
+
+---
 ## scatolaDerivazioen3Big.scad
 
-![Anteprima di scatolaDerivazioen3Big.scad](scatolaDerivazioen3Big.png)
+[![Preview of scatolaDerivazioen3Big.scad](scatolaDerivazioen3Big.png)](https://seasick.github.io/openscad-web-gui/?https://raw.githubusercontent.com/Kindaglia/openscad-ai/main/scatola_derivazione/scatolaDerivazioen3Big.scad)
 
+[🔗 Open Interactive 3D Preview](https://seasick.github.io/openscad-web-gui/?https://raw.githubusercontent.com/Kindaglia/openscad-ai/main/scatola_derivazione/scatolaDerivazioen3Big.scad)
+
+---
 ## scatolaDerivazioen3.scad
 
-![Anteprima di scatolaDerivazioen3.scad](scatolaDerivazioen3.png)
+[![Preview of scatolaDerivazioen3.scad](scatolaDerivazioen3.png)](https://seasick.github.io/openscad-web-gui/?https://raw.githubusercontent.com/Kindaglia/openscad-ai/main/scatola_derivazione/scatolaDerivazioen3.scad)
 
+[🔗 Open Interactive 3D Preview](https://seasick.github.io/openscad-web-gui/?https://raw.githubusercontent.com/Kindaglia/openscad-ai/main/scatola_derivazione/scatolaDerivazioen3.scad)
+
+---
 ## scatolaDerivazione_V1.scad
 
-![Anteprima di scatolaDerivazione_V1.scad](scatolaDerivazione_V1.png)
+[![Preview of scatolaDerivazione_V1.scad](scatolaDerivazione_V1.png)](https://seasick.github.io/openscad-web-gui/?https://raw.githubusercontent.com/Kindaglia/openscad-ai/main/scatola_derivazione/scatolaDerivazione_V1.scad)
 
+[🔗 Open Interactive 3D Preview](https://seasick.github.io/openscad-web-gui/?https://raw.githubusercontent.com/Kindaglia/openscad-ai/main/scatola_derivazione/scatolaDerivazione_V1.scad)
+
+---
