@@ -1,8 +1,8 @@
 // --- Base Parameters ---
 // Modify these values by measuring your real object
 
-bottom_diameter = 60; // Width at the bottom (on the table)
-top_diameter = 50;    // Width at the top (where the figure sits)
+top_diameter = 60;    // Width at the top (where the figure sits)
+bottom_diameter = top_diameter + 15; // Width at the bottom (on the table)
 height = 12;          // Total height of the base
 
 // --- Quality ---
